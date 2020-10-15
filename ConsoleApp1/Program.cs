@@ -18,7 +18,7 @@ namespace ConsoleApp1
                 }
                 catch (Exception)
                 {
-                    Console.Write("9");
+                    Console.Write("9");fsdfs
                     throw new Exception();
                 }
                 finally
